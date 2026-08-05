@@ -37,6 +37,7 @@ export default function App() {
 
       <div className="hero" id="home">
         <div className="hero-content">
+            <h3>PAGINA EM TESTE</h3>
           <h1>Arquitetura Minimalista & Funcional</h1>
           <p>Transformando seu sonho em realidade com design inovador e soluções inteligentes.</p>
         </div>
@@ -45,12 +46,14 @@ export default function App() {
       <div className="sobremim" id="sobre">
         <div className="container sobre-grid">
           <div className="sobre-foto">
-            <img src="/Assents/watermarked_img_4271946757504330814.jpg" alt="Arquiteto em ação" />
+            <img src="/Assents/larissa.png" alt="Arquiteto em ação" />
           </div>
           <div className="sobre-text">
             <h2>Sobre mim</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>Oi, eu sou Larissa Duarte Baracho, arquiteta há mais de 6 anos e apaixonada por criar espaços que unem beleza, funcionalidade e emoção. Para mim, arquitetura não é apenas transformar ou construir — é dar vida a experiências que fazem parte da rotina e da história das pessoas.</p>
+            <p>Sou casada há 5 anos com o Natã Baracho, meu companheiro de vida e de sonhos, e juntos temos a nossa maior inspiração: a Rebeca, nossa filha de 3 anos, que ilumina nossos dias com alegria e curiosidade. Minha família é o meu alicerce e também a fonte de toda a sensibilidade que aplico nos projetos.</p>
+            <p>Atualmente, faço parte da equipe do Nosso Atacarejo, onde coloco em prática minha paixão por desenvolver ambientes que unem estética e propósito. Cada projeto é pensado com carinho, porque acredito que os espaços têm o poder de transformar não só o dia, mas também a vida das pessoas.</p>
+            <p>Nos momentos livres, adoro estar com o Natã e a Rebeca, viajar e registrar cada lembrança em fotos — porque cada detalhe da nossa história merece ser guardado com amor.</p>        
           </div>
         </div>
       </div>

@@ -1,0 +1,8 @@
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Content-Security-Policy: default-src 'self' https://images.unsplash.com; script-src 'self' https://cdn.jsdelivr.net; style-src 'self' https://cdn.jsdelivr.net 'unsafe-inline'; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data: https://images.unsplash.com; connect-src 'self'; object-src 'none'; base-uri 'self';
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+*/

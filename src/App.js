@@ -50,10 +50,11 @@ export default function App() {
           </div>
           <div className="sobre-text">
             <h2>Sobre mim</h2>
-            <p>Oi, eu sou Larissa Duarte Baracho, arquiteta há mais de 6 anos e apaixonada por criar espaços que unem beleza, funcionalidade e emoção. Para mim, arquitetura não é apenas transformar ou construir — é dar vida a experiências que fazem parte da rotina e da história das pessoas.</p>
-            <p>Sou casada há 5 anos com o Natã Baracho, meu companheiro de vida e de sonhos, e juntos temos a nossa maior inspiração: a Rebeca, nossa filha de 3 anos, que ilumina nossos dias com alegria e curiosidade. Minha família é o meu alicerce e também a fonte de toda a sensibilidade que aplico nos projetos.</p>
-            <p>Atualmente, faço parte da equipe do Nosso Atacarejo, onde coloco em prática minha paixão por desenvolver ambientes que unem estética e propósito. Cada projeto é pensado com carinho, porque acredito que os espaços têm o poder de transformar não só o dia, mas também a vida das pessoas.</p>
-            <p>Nos momentos livres, adoro estar com o Natã e a Rebeca, viajar e registrar cada lembrança em fotos — porque cada detalhe da nossa história merece ser guardado com amor.</p>        
+            <p>Sou Larissa Duarte Baracho, arquiteta apaixonada por transformar ambientes em experiências funcionais e acolhedoras. Com mais de 6 anos de mercado, desenvolvo projetos que alinham estética, propósito e o estilo de vida de cada cliente.</p>
+            <p>Minha maior inspiração vem da minha família — meu marido Natã e minha filha Rebeca —, que me ensina diariamente a importância de criar espaços cheios de vida e significado.</p>
+            <p>Além dos meus projetos autorais, trago a bagagem técnica do setor corporativo, integrando a equipe do Nosso Atacarejo. Nas horas vagas, sou fotógrafa dos meus próprios momentos em família e entusiasta de viagens.
+                Seja para planejar a casa dos seus sonhos ou renovar um ambiente comercial, estou pronta para tirar suas ideias do papel.</p>
+            <h3><b>Vamos criar um projeto juntos?</b></h3>
           </div>
         </div>
       </div>
@@ -154,14 +155,14 @@ export default function App() {
         <div className="footer-contato" id="contato">
           <div>
             <h2>Contato</h2>
-            <p className="footer-contact-item"><span className="footer-icon"><i className="bi bi-whatsapp"></i></span>WhatsApp: <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer">(11) 99999-9999</a></p>
+            <p className="footer-contact-item"><span className="footer-icon"><i className="bi bi-whatsapp"></i></span>WhatsApp: <a href="https://wa.me/5588982123876" target="_blank" rel="noopener noreferrer">(88) 9 8212-3876</a></p>
             <p className="footer-contact-item"><span className="footer-icon"><i className="bi bi-envelope-fill"></i></span>Email: <a href="mailto:contato@arqduartestudio.com">contato@arqduartestudio.com</a></p>
-            <p className="footer-contact-item"><span className="footer-icon"><i className="bi bi-telephone-fill"></i></span>Telefone: <a href="tel:+5511999999999">(11) 99999-9999</a></p>
-            <p className="footer-contact-item"><span className="footer-icon"><i className="bi bi-geo-alt-fill"></i></span>Endereço: Rua Exemplo, 123 - São Paulo, SP</p>
+            <p className="footer-contact-item"><span className="footer-icon"><i className="bi bi-telephone-fill"></i></span>Telefone: <a href="tel:+5588982123876">(88) 9 8212-3876</a></p>
+            <p className="footer-contact-item"><span className="footer-icon"><i className="bi bi-geo-alt-fill"></i></span>Endereço: Av. Padre Cícero, 2925 - Juazeiro do Norte , CE</p>
           </div>
           <div className="footer-direitos">
-            <p>© 2026 Arq.Duarte Studio. Todos os direitos reservados.</p>
-            <p>Desenvolvido com foco em sofisticação e excelência estrutural.</p>
+            <p>© 2026 Duarte StudioDev. Todos os direitos reservados.</p>
+            <p>Desenvolvido com foco em sofisticação e excelência estrutural. Contato <a href="https://wa.me/5588988476061" target="_blank" rel="noopener noreferrer">clique aqui</a></p>
           </div>
         </div>
       </footer>
